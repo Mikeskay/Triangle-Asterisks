@@ -1,4 +1,4 @@
-package asterisks.base;
+package base;
 
 public class Asterisks{
 
